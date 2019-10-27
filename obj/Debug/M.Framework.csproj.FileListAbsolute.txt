@@ -1,0 +1,6 @@
+D:\Githb\M.Framework\bin\Debug\M.Framework.dll
+D:\Githb\M.Framework\bin\Debug\M.Framework.pdb
+D:\Githb\M.Framework\obj\Debug\M.Framework.csprojAssemblyReference.cache
+D:\Githb\M.Framework\obj\Debug\M.Framework.csproj.CoreCompileInputs.cache
+D:\Githb\M.Framework\obj\Debug\M.Framework.dll
+D:\Githb\M.Framework\obj\Debug\M.Framework.pdb
